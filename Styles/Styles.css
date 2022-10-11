@@ -1,0 +1,118 @@
+/*
+Author: Sven Nieuwenhuizen
+Date: 26-09-2022
+Subject: Portfolio 
+*/
+
+@font-face {
+    font-family: Righteous;
+    src: url(../Fonts/Righteous.ttf);
+}
+
+body
+{
+    font-family: Righteous;
+    background-color: rgb(162, 161, 160);
+}
+
+aside, #age
+{
+    position: relative;
+    color: white;
+    background-color:rgb(0, 0, 0);
+}
+
+video
+{
+    height: 400px;
+}
+
+table, th, td 
+{
+    border: 2px solid black;
+    color: white;
+}
+  
+table 
+{
+    position: relative;
+    width: 35%;
+    background-color: #F79615;
+    overflow-x:auto
+}
+
+#indeximg
+{
+    width: 200px;
+}
+
+#ImgERV
+{
+    width: 80%;
+}
+
+#FIndex
+{
+    bottom: 0;
+}
+
+#Testscreenimg
+{
+    margin-inline: auto;
+    display: block;
+    width: 70%;
+}
+@media screen and (min-width: 900px)
+{
+    video
+    {
+        height: 20%;
+        width: 20%;
+    }
+
+    .center
+    {
+        text-align: center;
+    }
+   
+    h4
+    {
+        text-align: center;
+        font-size:21px;
+    }
+
+    h2, p
+    {
+        text-align: center;
+    }
+
+    #stappen
+    {
+        height: 50%;
+    }
+
+    #ArticleHOB, h1, h3
+    {
+        text-align: center;
+    }
+    
+    img, #indeximg
+    {
+        width: 30%;
+    }
+    table
+    {
+        z-index: -1;
+        left: 25%;
+        width: 700px;
+    }
+    #Testscreenimg
+    {
+        width: 40%;
+    }
+    #ImgERV
+    {
+        width: 60%;
+    }
+
+}

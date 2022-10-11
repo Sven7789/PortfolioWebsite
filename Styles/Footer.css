@@ -1,0 +1,18 @@
+footer 
+{
+    color: #ffffff;
+    text-align: center;
+    background-color: #ff9100;
+    font-size: 15px;
+    font-family: Righteous;
+    position: fixed;
+    height: 4rem;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    padding: 20px
+}
+.buffer
+{
+    height: 4rem;
+}
