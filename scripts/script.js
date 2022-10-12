@@ -1,3 +1,10 @@
+/*
+    Auteur: Sven Nieuwenhuizen
+    Aanmaakdatum: 12/10/2022 08:07
+
+    Omschrijving: Omschrijving
+*/
+
 
 var Grades = [
     pointsREA = [6.0,6.4,5.8,7.0],

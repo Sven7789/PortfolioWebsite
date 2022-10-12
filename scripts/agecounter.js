@@ -1,3 +1,11 @@
+/*
+    Auteur: Sven Nieuwenhuizen
+    Aanmaakdatum: 12/10/2022 08:07
+
+    Omschrijving: Omschrijving
+*/
+
+
 var dob = new Date("02/02/2005");  
 
 var month_diff = Date.now() - dob.getTime();  
