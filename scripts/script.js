@@ -2,7 +2,7 @@
     Auteur: Sven Nieuwenhuizen
     Aanmaakdatum: 12/10/2022 08:07
 
-    Omschrijving: Omschrijving
+    Omschrijving: Resultaten script
 */
 
 
