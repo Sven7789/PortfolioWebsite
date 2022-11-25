@@ -1,12 +1,19 @@
+/*
+  Auteur: Sven Nieuwenhuizen
+  Aanmaakdatum: 25/11/2022 11:50
+
+  Omschrijving: Slider JavaScript
+*/
+
 let slideIndex = 1;
 showSlides(slideIndex);
 
-// Next/previous controls
+// Volgende en Vorige Controls
 function plusSlides(n) {
   showSlides(slideIndex += n);
 }
 
-// Thumbnail image controls
+// Thumbnail control
 function currentSlide(n) {
   showSlides(slideIndex = n);
 }

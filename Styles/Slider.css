@@ -1,6 +1,6 @@
 * {box-sizing:border-box}
 
-/* Slideshow container */
+
 .slideshow-container {
   max-width: 1000px;
   height: 600px;
@@ -9,7 +9,7 @@
   left: 100px;
 }
 
-/* Hide the images by default */
+/* Standaard zijn de afbeeldingen verborgen */
 .mySlides {
   display: none;
 }
