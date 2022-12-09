@@ -14,7 +14,7 @@
   display: none;
 }
 
-/* Next & previous buttons */
+/* Terug en volgende knop */
 .prev, .next {
   cursor: pointer;
   position: absolute;
@@ -30,7 +30,7 @@
   user-select: none;
 }
 
-/* Position the "next button" to the right */
+/* Positie van de volgende knop */
 .next {
   right: 190px;
   border-radius: 3px 0 0 3px;
@@ -61,7 +61,7 @@
   top: 0;
 }
 
-/* The dots/bullets/indicators */
+/* De Bullets */
 .dot {
   cursor: pointer;
   height: 15px;
@@ -82,7 +82,7 @@
   left: 50px;
 }
 
-/* Fading animation */
+/* Fading animatie */
 .fade {
   animation-name: fade;
   animation-duration: 1.5s;
