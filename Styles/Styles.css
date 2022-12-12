@@ -15,7 +15,7 @@ body
     background-color: rgb(162, 161, 160);
 }
 
-aside, #age
+aside
 {
     position: relative;
     color: white;
